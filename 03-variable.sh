@@ -14,4 +14,4 @@ echo $b
 # command substitution
 Date=$(date +%F)
 
-echo welcome, today Date is %F
+echo welcome, today date is %Date
